@@ -19,7 +19,7 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
  - Install [compass-card](https://github.com/tomvanswam/compass-card) card from Hacs.
  - Install [rain-gauge-card](https://github.com/t1gr0u/rain-gauge-card) card from Hacs.
  - Install [UV-Index-card](https://github.com/t1gr0u/uv-index-card) card from Hacs.
- - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen) card from Hacs.
+ - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) card from Hacs.
  - Add the sensors to your dashboard. Some sensors are French translations of the station's states. If you use English, you won't need it. Il can be add in configuration.yaml or sensors.yaml files. Personally, I use Packages.
  - Copy the Swiss-Army-Knife templates files sak-layout-mjt-demi-cercle-graphique.yaml and sak-layout-mjt-meteo.yaml in the following folder.
    - /config/lovelace/sak_templates/templates/layouts/
