@@ -12,6 +12,8 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
  - Install [Mushroom](https://github.com/piitaya/lovelace-mushroom) card from Hacs.
  - Install [Vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) card from Hacs.
  - Install [Text-divider-row](https://github.com/iantrich/text-divider-row) card from Hacs.
+ - Install [Windrose-card](https://github.com/aukedejong/lovelace-windrose-card) card from Hacs.
+ - Install [Apexcharts-card](https://github.com/RomRider/apexcharts-card) card from Hacs.
 
 
 - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen)
