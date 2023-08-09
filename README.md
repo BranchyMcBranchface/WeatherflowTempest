@@ -20,6 +20,8 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
  - Install [rain-gauge-card](https://github.com/t1gr0u/rain-gauge-card) card from Hacs.
  - Install [UV-Index-card](https://github.com/t1gr0u/uv-index-card) card from Hacs.
  - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen) card from Hacs.
+ - Add the sensors to your dashboard. Some sensors are French translations of the station's states. If you use English, you won't need it.
+ - 
 
 ### Captures d'écran
 
