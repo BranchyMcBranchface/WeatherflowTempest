@@ -9,7 +9,7 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
 
  - Install [Weatherflow2mqtt](https://github.com/briis/hass-weatherflow2mqtt) integration.
  - Install [Tabbed-card](https://github.com/kinghat/tabbed-card) from Hacs
- - Install [Tabbed-card](https://github.com/kinghat/tabbed-card) from Hacs
+ - Install [Mushroom]([https://github.com/kinghat/tabbed-card](https://github.com/piitaya/lovelace-mushroom)) from Hacs
 
 
 - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen)
