@@ -18,8 +18,8 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
  - Install [tempometer-gauge-card](https://github.com/monkey-debugger/lovelace-tempometer-gauge-card) card from Hacs.
  - Install [compass-card](https://github.com/tomvanswam/compass-card) card from Hacs.
  - Install [rain-gauge-card](https://github.com/t1gr0u/rain-gauge-card) card from Hacs.
- - Install [UV-Index-card](https://github.com/t1gr0u/uv-index-card)
- - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen)
+ - Install [UV-Index-card](https://github.com/t1gr0u/uv-index-card) card from Hacs.
+ - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen) card from Hacs.
 
 ### Captures d'écran
 
