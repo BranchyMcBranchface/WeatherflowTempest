@@ -16,6 +16,7 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
  - Install [Apexcharts-card](https://github.com/RomRider/apexcharts-card) card from Hacs.
  - Install [stack-in-card](https://github.com/custom-cards/stack-in-card) card from Hacs.
  - Install [tempometer-gauge-card](https://github.com/monkey-debugger/lovelace-tempometer-gauge-card) card from Hacs.
+ - Install [compass-card](https://github.com/tomvanswam/compass-card) card from Hacs.
 
 
 - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen)
