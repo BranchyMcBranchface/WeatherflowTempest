@@ -21,9 +21,9 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
  - Install [UV-Index-card](https://github.com/t1gr0u/uv-index-card) card from Hacs.
  - Install [swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card/projects?query=is%3Aopen) card from Hacs.
  - Add the sensors to your dashboard. Some sensors are French translations of the station's states. If you use English, you won't need it.
- - Copy the Swiss-Army_Knife templates files sak-layout-mjt-demi-cercle-graphique.yaml and sak-layout-mjt-meteo.yaml in the following folder.
+ - Copy the Swiss-Army-Knife templates files sak-layout-mjt-demi-cercle-graphique.yaml and sak-layout-mjt-meteo.yaml in the following folder.
    - /config/lovelace/sak_templates/templates/layouts/
- - Copy the Swiss-Army_Knife colorstops templates files colorstops_mjt_distance_eclaires.yaml and colostops_mjt_nb_eclaires.yaml in the following folder.
+ - Copy the Swiss-Army-Knife colorstops templates files colorstops_mjt_distance_eclaires.yaml and colostops_mjt_nb_eclaires.yaml in the following folder.
    - /config/lovelace/sak_templates/templates/colorstops/
 
 ### Captures d'écran
