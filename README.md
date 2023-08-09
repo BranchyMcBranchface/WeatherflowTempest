@@ -25,6 +25,7 @@ Don't get discouraged by all the steps to take. It's a little long and complicat
    - /config/lovelace/sak_templates/templates/layouts/
  - Copy the Swiss-Army-Knife colorstops templates files colorstops_mjt_distance_eclaires.yaml and colostops_mjt_nb_eclaires.yaml in the following folder.
    - /config/lovelace/sak_templates/templates/colorstops/
+ - Copy the code in WeatherflowTempest.yaml file.
 
 ### Captures d'écran
 
